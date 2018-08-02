@@ -1,0 +1,12 @@
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.csprojResolveAssemblyReference.cache
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.Form1.resources
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.Properties.Resources.resources
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.csproj.GenerateResource.Cache
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.csproj.CoreCompileInputs.cache
+D:\workspace_VS\CRecord\CRecord\bin\Debug\CRecord.exe.config
+D:\workspace_VS\CRecord\CRecord\bin\Debug\CRecord.exe
+D:\workspace_VS\CRecord\CRecord\bin\Debug\CRecord.pdb
+D:\workspace_VS\CRecord\CRecord\bin\Debug\SharpAvi.dll
+D:\workspace_VS\CRecord\CRecord\bin\Debug\SharpAvi.xml
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.exe
+D:\workspace_VS\CRecord\CRecord\obj\Debug\CRecord.pdb

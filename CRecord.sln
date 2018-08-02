@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRecord", "CRecord\CRecord.csproj", "{905028F0-0D27-4D83-B403-3A055D5390A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Debug|x64.ActiveCfg = Debug|x64
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Debug|x64.Build.0 = Debug|x64
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Release|x64.ActiveCfg = Release|x64
+		{905028F0-0D27-4D83-B403-3A055D5390A7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ECB9A34-1138-4969-B9F7-5E31C84180D8}
+	EndGlobalSection
+EndGlobal
